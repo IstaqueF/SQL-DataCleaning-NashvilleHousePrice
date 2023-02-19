@@ -1,11 +1,11 @@
-# SQL - Nashville house price Project
+# SQL - Nashville house price - Data cleaning Project
 
 In this project I have cleaned the data and prepared it for the analysis. 
 The initial spreadsheet contained multiple inconsistencies in format and in value which needed to be fixed before we could proceed for the main analysis. 
 
 The below operations were carried out
 
-#1 chnaged data type of the column to make it consistent 
+#1 changed data type of the column to make it consistent 
 
 #2 Update database with new data type 
 
