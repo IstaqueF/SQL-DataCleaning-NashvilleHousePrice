@@ -7,13 +7,13 @@ The below operations were carried out
 
 #1 changed data type of the column to make it consistent 
 
-#2 Update database with new data type 
+#2 Updated database with new data type 
 
-#3 Find the NULL values in specific columns and populating them using SELF JOIN 
+#3 Found the NULL values in specific columns and populated them using SELF JOIN 
 
-#4 breaking out the long string (Address) and assign the separate values in new columns 
+#4 broke out the long string (Address) and assigned the separate values in new columns 
 
-#5 Update the database with these newly created columns
+#5 Updated the database with these newly created columns
 
 #6 Changed datatype of specific column from bit to nvarchar and assigned values of "Yes" and "No" in place of 0 and 1. 
 
