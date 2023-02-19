@@ -1,4 +1,4 @@
-# SQL
+# SQL - Nashville house price Project
 
 In this project I have cleaned the data and prepared it for the analysis. 
 The initial spreadsheet contained multiple inconsistencies in format and in value which needed to be fixed before we could proceed for the main analysis. 
